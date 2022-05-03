@@ -1,0 +1,10 @@
+D:\zУчеба\Учеба\3 курс\2 семестр\ООП\Лекции\OOP_1\obj\Debug\OOP_1.csprojAssemblyReference.cache
+D:\zУчеба\Учеба\3 курс\2 семестр\ООП\Лекции\OOP_1\obj\Debug\OOP_1.Form1.resources
+D:\zУчеба\Учеба\3 курс\2 семестр\ООП\Лекции\OOP_1\obj\Debug\OOP_1.Properties.Resources.resources
+D:\zУчеба\Учеба\3 курс\2 семестр\ООП\Лекции\OOP_1\obj\Debug\OOP_1.csproj.GenerateResource.cache
+D:\zУчеба\Учеба\3 курс\2 семестр\ООП\Лекции\OOP_1\obj\Debug\OOP_1.csproj.CoreCompileInputs.cache
+D:\zУчеба\Учеба\3 курс\2 семестр\ООП\Лекции\OOP_1\bin\Debug\OOP_1.exe.config
+D:\zУчеба\Учеба\3 курс\2 семестр\ООП\Лекции\OOP_1\bin\Debug\OOP_1.exe
+D:\zУчеба\Учеба\3 курс\2 семестр\ООП\Лекции\OOP_1\bin\Debug\OOP_1.pdb
+D:\zУчеба\Учеба\3 курс\2 семестр\ООП\Лекции\OOP_1\obj\Debug\OOP_1.exe
+D:\zУчеба\Учеба\3 курс\2 семестр\ООП\Лекции\OOP_1\obj\Debug\OOP_1.pdb

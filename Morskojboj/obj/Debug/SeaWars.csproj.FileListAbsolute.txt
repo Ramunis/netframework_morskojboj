@@ -1,0 +1,40 @@
+C:\Users\sevam\source\repos\OOP_1\bin\Debug\OOP_1.exe.config
+C:\Users\sevam\source\repos\OOP_1\bin\Debug\OOP_1.exe
+C:\Users\sevam\source\repos\OOP_1\bin\Debug\OOP_1.pdb
+C:\Users\sevam\source\repos\OOP_1\obj\Debug\SeaWars.csprojAssemblyReference.cache
+C:\Users\sevam\source\repos\OOP_1\obj\Debug\OOP_1.Form1.resources
+C:\Users\sevam\source\repos\OOP_1\obj\Debug\OOP_1.Properties.Resources.resources
+C:\Users\sevam\source\repos\OOP_1\obj\Debug\SeaWars.csproj.GenerateResource.cache
+C:\Users\sevam\source\repos\OOP_1\obj\Debug\SeaWars.csproj.CoreCompileInputs.cache
+C:\Users\sevam\source\repos\OOP_1\obj\Debug\OOP_1.exe
+C:\Users\sevam\source\repos\OOP_1\obj\Debug\OOP_1.pdb
+C:\Users\User\source\repos\OOP1 Lab1\Final\SeaWars\bin\Debug\OOP_1.exe.config
+C:\Users\User\source\repos\OOP1 Lab1\Final\SeaWars\bin\Debug\OOP_1.exe
+C:\Users\User\source\repos\OOP1 Lab1\Final\SeaWars\bin\Debug\OOP_1.pdb
+C:\Users\User\source\repos\OOP1 Lab1\Final\SeaWars\obj\Debug\SeaWars.csprojAssemblyReference.cache
+C:\Users\User\source\repos\OOP1 Lab1\Final\SeaWars\obj\Debug\OOP_1.Form1.resources
+C:\Users\User\source\repos\OOP1 Lab1\Final\SeaWars\obj\Debug\OOP_1.Properties.Resources.resources
+C:\Users\User\source\repos\OOP1 Lab1\Final\SeaWars\obj\Debug\SeaWars.csproj.GenerateResource.cache
+C:\Users\User\source\repos\OOP1 Lab1\Final\SeaWars\obj\Debug\SeaWars.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OOP1 Lab1\Final\SeaWars\obj\Debug\OOP_1.exe
+C:\Users\User\source\repos\OOP1 Lab1\Final\SeaWars\obj\Debug\OOP_1.pdb
+C:\Users\sevam\Desktop\Новая папка\SeaWars\obj\Debug\SeaWars.csprojAssemblyReference.cache
+C:\Users\sevam\Desktop\Новая папка\SeaWars\obj\Debug\SeaWars.Form1.resources
+C:\Users\sevam\Desktop\Новая папка\SeaWars\obj\Debug\SeaWars.csproj.GenerateResource.cache
+C:\Users\sevam\Desktop\Новая папка\SeaWars\obj\Debug\SeaWars.csproj.CoreCompileInputs.cache
+C:\Users\sevam\Desktop\Новая папка\SeaWars\bin\Debug\SeaWars.exe.config
+C:\Users\sevam\Desktop\Новая папка\SeaWars\bin\Debug\SeaWars.exe
+C:\Users\sevam\Desktop\Новая папка\SeaWars\bin\Debug\SeaWars.pdb
+C:\Users\sevam\Desktop\Новая папка\SeaWars\obj\Debug\SeaWars.Properties.Resources.resources
+C:\Users\sevam\Desktop\Новая папка\SeaWars\obj\Debug\SeaWars.exe
+C:\Users\sevam\Desktop\Новая папка\SeaWars\obj\Debug\SeaWars.pdb
+C:\Users\sevam\Desktop\SeaWars\bin\Debug\MorskoiBoi.exe.config
+C:\Users\sevam\Desktop\SeaWars\bin\Debug\MorskoiBoi.exe
+C:\Users\sevam\Desktop\SeaWars\bin\Debug\MorskoiBoi.pdb
+C:\Users\sevam\Desktop\SeaWars\obj\Debug\SeaWars.csprojAssemblyReference.cache
+C:\Users\sevam\Desktop\SeaWars\obj\Debug\MorskoiBoi.Properties.Resources.resources
+C:\Users\sevam\Desktop\SeaWars\obj\Debug\SeaWars.csproj.GenerateResource.cache
+C:\Users\sevam\Desktop\SeaWars\obj\Debug\SeaWars.csproj.CoreCompileInputs.cache
+C:\Users\sevam\Desktop\SeaWars\obj\Debug\MorskoiBoi.exe
+C:\Users\sevam\Desktop\SeaWars\obj\Debug\MorskoiBoi.pdb
+C:\Users\sevam\Desktop\SeaWars\obj\Debug\MorskoiBoi.Form1.resources
